@@ -59,7 +59,7 @@
 ```java
 package ru.mirea.test;
 
-public class Main {
+public class Glavn {
     public static void main(String[] args) {
 	// just a comment
     System.out.print("Hi");
