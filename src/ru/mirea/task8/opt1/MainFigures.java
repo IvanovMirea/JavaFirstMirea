@@ -1,4 +1,4 @@
-package ru.mirea.task8.opt1;
+/*package ru.mirea.task8.opt1;
 
 import javax.swing.*;
 import java.awt.*;
@@ -45,10 +45,7 @@ public class MainFigures extends JFrame{
             blue = (int) (Math.random() * 255);
             switch (1 + (int) (Math.random() * 5)) {
                 case (1) -> {
-                    square = new SquareTask8(
-                            50 + (int) (Math.random() * 1300),
-                            50 + (int) (Math.random() * 600),
-                            new Color(red, green, blue));
+                    square = new SquareTask8(50 + (int) (Math.random() * 1300), 50 + (int) (Math.random() * 600), new Color(red, green, blue));
                     square.Print(g);
                 }
                 case (2) -> {
@@ -88,3 +85,4 @@ public class MainFigures extends JFrame{
         go.frame();
     }
 }
+*/
