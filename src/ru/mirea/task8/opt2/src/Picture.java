@@ -1,3 +1,5 @@
+package ru.mirea.task8.opt2.src;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
