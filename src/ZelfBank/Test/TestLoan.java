@@ -1,6 +1,6 @@
 package ZelfBank.Test;
 
-import com.company.Loan;
+import ZelfBank.Loan;
 
 public class TestLoan {
     public static void main(String[] args) {

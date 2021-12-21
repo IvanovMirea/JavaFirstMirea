@@ -1,6 +1,6 @@
 package ZelfBank.Test;
 
-import com.company.CreditCard;
+import ZelfBank.CreditCard;
 
 public class TestCreditCard {
     public static void main(String[] args) {

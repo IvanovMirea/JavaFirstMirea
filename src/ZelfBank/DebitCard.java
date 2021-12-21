@@ -1,7 +1,7 @@
 package ZelfBank;
 
-import com.company.topUp.TopUpFromATM;
-import com.company.topUp.TopUpStrategy;
+import ZelfBank.topUp.TopUpFromATM;
+import ZelfBank.topUp.TopUpStrategy;
 
 public class DebitCard extends Card{
 

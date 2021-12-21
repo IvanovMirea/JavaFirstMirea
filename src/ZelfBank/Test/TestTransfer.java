@@ -1,6 +1,6 @@
 package ZelfBank.Test;
 
-import com.company.Transfer;
+import ZelfBank.Transfer;
 
 public class TestTransfer {
     public static void main(String[] args) {

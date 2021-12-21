@@ -1,7 +1,7 @@
 package ZelfBank;
 
-import com.company.topUp.TopUpFromSavingAccount;
-import com.company.topUp.TopUpStrategy;
+import ZelfBank.topUp.TopUpFromSavingAccount;
+import ZelfBank.topUp.TopUpStrategy;
 
 
 public class SavingAccount extends Account {

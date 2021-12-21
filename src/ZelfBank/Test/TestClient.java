@@ -1,6 +1,6 @@
 package ZelfBank.Test;
 
-import com.company.Client;
+import ZelfBank.Client;
 
 import java.io.*;
 import java.util.HashMap;
@@ -17,7 +17,7 @@ public class TestClient {
 
         //TASK-29
         //29 - сериализация
-        FileOutputStream outputStream = new FileOutputStream("C:\\Users\\1oran\\Downloads\\IdeaProjects\\Bank\\src\\com\\company\\saves\\save1.ser");
+        FileOutputStream outputStream = new FileOutputStream("C:\\Users\\tekap\\IdeaProjects\\JavaFirstMirea\\src\\ZelfBank\\Saves\\save1.ser");
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
 
         objectOutputStream.writeObject(client1);
@@ -26,7 +26,7 @@ public class TestClient {
 
         //TASK-29
         //29 - десериализация
-        FileInputStream fileInputStream = new FileInputStream("C:\\Users\\1oran\\Downloads\\IdeaProjects\\Bank\\src\\com\\company\\saves\\save1.ser");
+        FileInputStream fileInputStream = new FileInputStream("C:\\Users\\tekap\\IdeaProjects\\JavaFirstMirea\\src\\ZelfBank\\Saves\\save1.ser");
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
 
         Client client2 = (Client) objectInputStream.readObject();

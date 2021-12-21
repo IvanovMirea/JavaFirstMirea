@@ -1,8 +1,8 @@
 package ZelfBank;
 
-import com.company.service.InfoMailing;
-import com.company.service.InfoSMSMailing;
-import com.company.service.Service;
+import ZelfBank.Service.InfoSMSMailing;
+import ZelfBank.Service.Service;
+import ZelfBank.Service.InfoMailing;
 
 public class CreditCard extends Card{
 

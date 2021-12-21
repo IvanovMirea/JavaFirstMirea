@@ -2,9 +2,9 @@ package ZelfBank;
 
 class PersonTest {
 
-    private String name = "Vasiliy";
+    private String name = "Artemiy";
     private String phoneNumber = "89035467875";
-    private String email = "1VasiliyIvanov@gmail.com";
+    private String email = "1ArtemiyIvanov@gmail.com";
     private int age = 19;
     private Person.gender gen = Person.gender.male;
 

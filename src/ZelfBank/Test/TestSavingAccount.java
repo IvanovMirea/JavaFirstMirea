@@ -1,7 +1,7 @@
 package ZelfBank.Test;
 
-import com.company.Client;
-import com.company.SavingAccount;
+import ZelfBank.Client;
+import ZelfBank.SavingAccount;
 
 import java.util.HashMap;
 

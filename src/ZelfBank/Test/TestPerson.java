@@ -1,6 +1,6 @@
 package ZelfBank.Test;
 
-import com.company.Person;
+import ZelfBank.Person;
 
 public class TestPerson {
 

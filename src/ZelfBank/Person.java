@@ -1,7 +1,7 @@
 package ZelfBank;
 
-import com.company.validators.EmailValidator;
-import com.company.validators.PhoneNumberValidator;
+import ZelfBank.validators.EmailValidator;
+import ZelfBank.validators.PhoneNumberValidator;
 
 import java.io.Serializable;
 

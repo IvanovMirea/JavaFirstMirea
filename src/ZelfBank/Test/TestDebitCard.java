@@ -1,7 +1,7 @@
 package ZelfBank.Test;
 
-import com.company.Client;
-import com.company.DebitCard;
+import ZelfBank.Client;
+import ZelfBank.DebitCard;
 import java.util.HashMap;
 
 public class TestDebitCard {

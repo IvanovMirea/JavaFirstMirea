@@ -1,8 +1,8 @@
 package ZelfBank.Test;
 
-import com.company.Card;
-import com.company.CardFactory;
-import com.company.cardType;
+import ZelfBank.Card;
+import ZelfBank.CardFactory;
+import ZelfBank.cardType;
 
 public class TestCard {
 

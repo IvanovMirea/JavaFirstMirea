@@ -1,6 +1,6 @@
 package ZelfBank.topUp;
 
-import com.company.Client;
+import ZelfBank.Client;
 
 //TASK-26
 //26 - описание одного из возможных способов пополнения счета (для шаблона проектирования "Стратегия")
