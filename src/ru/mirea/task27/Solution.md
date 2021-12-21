@@ -1,7 +1,7 @@
 # Практическая работа 27. HashMap()
 **Студент:** Иванов Данила Константинович, tekapzdabrat@gmail.com .
 # Решение задания на практическую работу
-Решение приведено в проекте 
+Решение приведено в проекте https://github.com/IvanovMirea/JavaFirstMirea/tree/master/src/ZelfBank
 
 В проекте HashMap() используется для хранения информации о:
 

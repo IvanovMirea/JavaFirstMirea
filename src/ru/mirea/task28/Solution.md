@@ -1,7 +1,7 @@
 # Практическая работа 28. Анонимные и вложенные классы
 **Студент:** Иванов Данила Константинович, tekapzdabrat@gmail.com .
 # Решение задания на практическую работу
-Решение приведено в проекте https://github.com/Junk-hub/Bank/tree/main/src/com/company
+Решение приведено в проекте https://github.com/IvanovMirea/JavaFirstMirea/tree/master/src/ZelfBank
 
 Для решения поставленного таска было выполнено две задачи:
 
